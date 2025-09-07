@@ -7,19 +7,19 @@ This app combines **OpenAI’s ChatGPT** with local utilities like **time, jokes
 
 ##  Features
 
-- **⏰ Time** → Ask the current time.  
-- **😂 Jokes** → Get random jokes (English + Hindi).  
-- **💬 ChatGPT** → Ask anything, powered by OpenAI API.  
-- **📍 Location Info** → Fetch details with latitude/longitude via Geopy.  
-- **🖼 Image Search** → Open the first result directly in your browser.  
-- **🎨 Theme Toggle** → Switch between Light 🌞 and Dark 🌙 mode.  
-- **🔊 Voice Support** → Text-to-Speech responses.  
-- **🛑 Stop Button** → Interrupt long responses.  
-- **⛔ Exit Command** → Close app safely by typing “exit” or “quit”.  
+- **Time** → Ask the current time.  
+- **Jokes** → Get random jokes (English + Hindi).  
+- **ChatGPT** → Ask anything, powered by OpenAI API.  
+- **Location Info** → Fetch details with latitude/longitude via Geopy.  
+- **Image Search** → Open the first result directly in your browser.  
+- **Theme Toggle** → Switch between Light and Dark mode.  
+- **Voice Support** → Text-to-Speech responses.  
+- **Stop Button** → Interrupt long responses.  
+- **Exit Command** → Close app safely by typing “exit” or “quit”.  
 
 ---
 
-## 🚀 Quickstart
+##Quickstart
 
 Clone the repository:
 
@@ -66,11 +66,11 @@ Set it as an environment variable:
   export OPENAI_API_KEY="your_api_key_here"
   ```
 
-⚠ **Never hardcode your API key** inside `project.py`.
+ **Never hardcode your API key** inside `project.py`.
 
 ---
 
-## ▶ Run the Application
+##  Run the Application
 
 ```bash
 python project.py
