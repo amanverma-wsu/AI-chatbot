@@ -24,7 +24,7 @@ This app combines **OpenAI’s ChatGPT** with local utilities like **time, jokes
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AI-Assistant.git
+git clone https://github.com/amanverma-wsu/AI-chatbot.git
 cd AI-Assistant
 ```
 
