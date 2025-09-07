@@ -5,7 +5,7 @@ This app combines **OpenAI’s ChatGPT** with local utilities like **time, jokes
 
 ---
 
-## ✨ Features
+##  Features
 
 - **⏰ Time** → Ask the current time.  
 - **😂 Jokes** → Get random jokes (English + Hindi).  
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Environment Setup
+##  Environment Setup
 
 This project requires an **OpenAI API Key**.  
 
@@ -66,11 +66,11 @@ Set it as an environment variable:
   export OPENAI_API_KEY="your_api_key_here"
   ```
 
-⚠️ **Never hardcode your API key** inside `project.py`.
+⚠ **Never hardcode your API key** inside `project.py`.
 
 ---
 
-## ▶️ Run the Application
+## ▶ Run the Application
 
 ```bash
 python project.py
@@ -78,7 +78,7 @@ python project.py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 AI-Assistant/
@@ -88,27 +88,3 @@ AI-Assistant/
 └── README.md           # Project documentation
 ```
 
----
-
-## 🛡️ Security
-
-- API keys should always be set via **environment variables**.  
-- The `.gitignore` prevents accidental commits of `env/` and sensitive files.  
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome!  
-Ideas to improve:
-- Add **voice recognition** (speech-to-text).
-- More **fun APIs** (weather, news, quotes).  
-- Package the app into a `.exe` for Windows users.  
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
-
----
