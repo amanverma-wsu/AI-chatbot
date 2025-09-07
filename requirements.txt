@@ -1,0 +1,5 @@
+﻿tk
+pyttsx3
+geopy
+duckduckgo-search
+openai
